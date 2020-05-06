@@ -1,8 +1,6 @@
 # django-nonstaffadmin
 
-![Django CI](https://github.com/slackarea/droganalisi/workflows/Django%20CI/badge.svg?branch=master)
-
-web application made with python and django
+web application made with python and Django
 
 ## Getting Started
 
